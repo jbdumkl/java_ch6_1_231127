@@ -17,6 +17,7 @@ public class MainClass {
 		
 //		System.out.println(student.getName());
 
+//		Member member = new memberName
 		
 	}
 
